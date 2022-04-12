@@ -1,17 +1,9 @@
 import 'package:appagenda/src/core/constants/constants.dart';
-import 'package:appagenda/src/data/repositories/contatc_abstract.dart';
 
-class ContactModel implements ContactAbstract {
-  @override
+class ContactModel {
   late String email;
-
-  @override
   late int id;
-
-  @override
   late String name;
-
-  @override
   late String phone;
 
   ContactModel({

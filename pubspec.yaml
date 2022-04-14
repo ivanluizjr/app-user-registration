@@ -37,6 +37,7 @@ dependencies:
   sqflite: ^2.0.2
   bloc: ^8.0.3
   equatable: ^2.0.3
+  url_launcher: ^6.0.20
 
 dev_dependencies:
   flutter_test:

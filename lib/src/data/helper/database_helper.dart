@@ -19,7 +19,7 @@ class DatabaseHelper {
       onCreate: (database, version) async {
         await database.execute(
           """
-            CREATE TABLE If Not Exist users (
+            CREATE TABLE IF NOT EXISTS users (
               id INTEGER PRIMARY KEY AUTOINCREMENT, 
               name TEXT NOT NULL,
               age INTEGER NOT NULL, 

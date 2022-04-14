@@ -8,4 +8,7 @@ O aplicativo cadastra um nome, a idade e o e-mail da pessoa, guarda esse dado, p
 
 # :iphone: Layout do App
 
+![App_User_Registration](https://user-images.githubusercontent.com/41458938/163298446-e0827c4e-3bcb-47fd-adda-39cea3af93f2.gif)
+
+
 

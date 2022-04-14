@@ -6,4 +6,6 @@ A intenção foi compreender como funciona a conexão do Flutter com o banco de 
 
 O aplicativo cadastra um nome, a idade e o e-mail da pessoa, guarda esse dado, podendo esse dado ser editado e apagado caso seja necessário.
 
+# :iphone: Layout do App
+
 

@@ -1,16 +1,9 @@
-# appagenda
+# :arrow_forward: App User Registration
 
-A new Flutter project.
+O objetivo deste projeto foi estudar de forma direta persistência de dados utilizando SQLITE.
 
-## Getting Started
+A intenção foi compreender como funciona a conexão do Flutter com o banco de dados, com isso fiz um CRUD, aplicando os conceitos. 
 
-This project is a starting point for a Flutter application.
+O aplicativo cadastra um nome, a idade e o e-mail da pessoa, guarda esse dado, podendo esse dado ser editado e apagado caso seja necessário.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
